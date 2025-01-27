@@ -1,5 +1,8 @@
 # changelog
 
+## 1.5.0
+ - Use python 3.8 plugin host
+
 ## 1.4.2
 
  - Launch bash in interactive mode so that `~/.bashrc` is parsed
